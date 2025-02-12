@@ -8,12 +8,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.LogInPage;
 
-/**
- * 
- * @author AjanthanSivalingarajah
- * @since 2020/05/12
- *
- */
+
 public class LogInPageSteps {
     private TestContext testContext;
     private LogInPage logInPage;
