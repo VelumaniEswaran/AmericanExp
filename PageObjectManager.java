@@ -6,12 +6,7 @@ import pageObjects.LogInPage;
 import pageObjects.PasswordResetPage;
 import pageObjects.DashboardPage;
 
-/**
- * 
- * @author AjanthanSivalingarajah
- * @since 2020/05/12
- *
- */
+
 public class PageObjectManager {
     private WebDriver driver;
 
