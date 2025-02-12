@@ -3,12 +3,7 @@ package stepDefinitions;
 import cucumber.TestContext;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-/**
- * 
- * @author AjanthanSivalingarajah
- * @since 2020/05/12
- *
- */
+
 public class Hooks {
     TestContext testContext;
 
